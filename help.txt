@@ -1,0 +1,12 @@
+
+      
+
+          [<>] Enter 1 to register a book, or delet
+                  the book that you registerd,
+
+          [<>] Enter 2 to see the registerd list.
+
+          [<>] Enter 3 to get help.
+
+          [<>] Enetr 4 to know about the developers
+                 of the program.

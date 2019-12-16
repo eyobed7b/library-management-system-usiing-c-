@@ -1,0 +1,13 @@
+
+
+                        BOOK REGISTRATION 
+ 
+  
+
+                 1 > TAKING BOOK
+ 
+  
+                 2 > RETURNING BOOK
+ 
+
+                 3 > BACK TO MENU    

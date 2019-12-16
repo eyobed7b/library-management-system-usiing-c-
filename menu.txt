@@ -1,0 +1,19 @@
+
+   
+                            MENU
+
+                
+
+                 1 > BOOK REGISTRATION
+
+                 2 > REGISTERED LIST
+  
+                 3 > HELP
+ 
+                 4> ABOUT 
+   
+  
+                                    Esc--> Exit
+
+
+                   'e' www.AASTU libraray .edu.et
